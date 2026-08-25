@@ -6,7 +6,6 @@
 ![Type checked](https://img.shields.io/badge/mypy-strict-blue)
 ![License](https://img.shields.io/badge/license-MIT-lightgrey)
 
-A command-line tool that tidies a cluttered folder...
 A command-line tool that tidies a cluttered folder by sorting files into category and date sub-folders — with a dry run by default, so nothing moves until you say so.
 
 ## The Problem
