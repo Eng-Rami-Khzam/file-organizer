@@ -1,7 +1,7 @@
 # File Organizer
 
 ![Python](https://img.shields.io/badge/python-3.10+-3776AB?logo=python&logoColor=white)
-![Tests](https://img.shields.io/badge/tests-37%20passing-success)
+![Tests](https://github.com/Eng-Rami-Khzam/file-organizer/actions/workflows/tests.yml/badge.svg)
 ![Coverage](https://img.shields.io/badge/coverage-91%25-success)
 ![Type checked](https://img.shields.io/badge/mypy-strict-blue)
 ![License](https://img.shields.io/badge/license-MIT-lightgrey)
