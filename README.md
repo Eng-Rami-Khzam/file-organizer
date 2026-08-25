@@ -21,12 +21,22 @@ PLAN (dry run)
     -> archives/2026-08/backup.zip
   beach.png
     -> images/2026-08/beach.png
+  budget.xlsx
+    -> spreadsheets/2026-08/budget.xlsx
   contract.pdf
     -> documents/2026-06/contract.pdf
   invoice.pdf
     -> documents/2026-06/invoice.pdf
+  movie.mp4
+    -> video/2026-08/movie.mp4
   mystery.xyz
     -> other/2026-08/mystery.xyz
+  notes.txt
+    -> documents/2026-08/notes.txt
+  script.py
+    -> code/2026-08/script.py
+  song.mp3
+    -> audio/2026-08/song.mp3
   vacation.jpg
     -> images/2025-11/vacation.jpg
 ------------------------------------------------------------
@@ -67,7 +77,7 @@ Downloads/
 ## Installation
 
 ```bash
-git clone https://github.com/USERNAME/file-organizer.git
+git clone https://github.com/ramikhzam198-del/file-organizer.git
 cd file-organizer
 python -m venv .venv
 .venv\Scripts\activate          # Windows
