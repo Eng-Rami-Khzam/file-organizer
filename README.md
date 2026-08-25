@@ -77,7 +77,7 @@ Downloads/
 ## Installation
 
 ```bash
-git clone https://github.com/ramikhzam198-del/file-organizer.git
+git clone https://github.com/Eng-Rami-Khzam/file-organizer.git
 cd file-organizer
 python -m venv .venv
 .venv\Scripts\activate          # Windows
